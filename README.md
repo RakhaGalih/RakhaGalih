@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakhaGalih
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me just contact me at rakhagalih19@gmail.com
 
