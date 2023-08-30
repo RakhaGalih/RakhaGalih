@@ -3,7 +3,6 @@
 I'm Rakha Galih, a passionate software engineer specializing in Flutter development.
 
 <br>
-<br>
 
 ### 🎉 Why Choose Me as Your Collaborator? 🎉
 
@@ -32,13 +31,11 @@ I enjoy solving coding challenges creatively to ensure seamless app functionalit
 My focus is on delivering a delightful user experience through thoughtful coding.
 
 <br>
-<br>
 
 ### 🔗 Explore My Work 🔗
 
 Visit my GitHub repository rakhagalih19@gmail.com to see my projects and contributions, from UI designs to polished coding solutions.
 
-<br>
 <br>
 
 ### 🌐 Let's Connect! 🌐
