@@ -1,4 +1,4 @@
-### 👋 Exploring New Horizons with me, Rakha Galih 👨‍💻
+👋 Exploring New Horizons with me, Rakha Galih 👨‍💻
 
 Hello there, tech enthusiasts and potential collaborators! 🚀 Are you ready to embark on a journey of innovation, creativity, and cutting-edge Flutter development? Look no further – I'm Rakha Galih, a dedicated software engineer specializing in crafting seamless experiences through Flutter.
 
