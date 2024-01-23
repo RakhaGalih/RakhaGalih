@@ -34,7 +34,7 @@ My focus is on delivering a delightful user experience through thoughtful coding
 
 ### 🔗 Explore My Work 🔗
 
-Visit my GitHub repository rakhagalih19@gmail.com to see my projects and contributions, from UI designs to polished coding solutions.
+Visit my GitHub repository to see my projects and contributions, from UI designs to polished coding solutions.
 
 <br>
 
