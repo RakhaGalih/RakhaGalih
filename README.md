@@ -1,48 +1,43 @@
-## 👋 Greetings! 
+# Welcome to Rakha's GitHub Profile! 👋
+### 💁🏻‍♂️ About Me :
 
-I'm Rakha Galih, a passionate software engineer specializing in Flutter development.
+Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
 
-<br>
+<hr>
 
-### 🎉 Why Choose Me as Your Collaborator? 🎉
+### 🎨 What I Do :
 
-<br>
+<b>Mobile Development :</b> Proficient in building cross-platform mobile applications.
 
-📱 <b>Flutter Enthusiast:</b>
+<b>UI/UX Design :</b> Ensuring sleek interfaces and seamless user experiences.
 
-I excel in creating captivating UI designs and interactive app elements using Flutter.
+<b>Problem Solving :</b> Enjoy tackling complex challenges and finding elegant solutions.
 
-<br>
+<hr>
 
-🤝 <b>Collaboration Advocate:</b>
+### 🚀 My Projects :
 
-I thrive in collaborative environments, valuing open communication and shared goals.
+Explore a variety of projects showcasing my skills and creativity:
 
-<br>
+- <b>Wheather App</b> : Stay informed with up-to-the-minute weather forecasts delivered straight to your device. [See the project 👀](https://github.com/RakhaGalih/weather-app)
+- <b>Kuas</b> : Kuas is a user-friendly app that offers both drawing and note-taking capabilities. [See the project 👀](https://github.com/RakhaGalih/kuas)
+- <b>Xylophone APP</b> : Brief description of the project. [See the project 👀](https://github.com/RakhaGalih/xylophone-me/)
 
-🛠️ <b>Ingenious Innovator:</b>
+Feel free to dive into the code, provide feedback, or collaborate on exciting ventures!
 
-I enjoy solving coding challenges creatively to ensure seamless app functionality.
+<hr>
 
-<br>
+### 🌐 Get in Touch :
 
-🌟 <b>User-Centric Approach:</b>
+<b>LinkedIn :</b> [My LinkedIn](https://www.linkedin.com/in/rakha-galih-660743215)
 
-My focus is on delivering a delightful user experience through thoughtful coding.
+<b>Dribbble :<b> [My Dribbble](https://dribbble.com/rakhagalih)
 
-<br>
+<b>Email : <b> rakhagalih19@gmail.com
 
-### 🔗 Explore My Work 🔗
+<hr>
 
-Visit my GitHub repository to see my projects and contributions, from UI designs to polished coding solutions.
-
-<br>
-
-### 🌐 Let's Connect! 🌐
-
-Whether you have a project idea or want to enhance your development team, I'm here to help. Reach me at rakhagalih19@gmail.com to discuss how we can work together.
-
-<b>🚀 Let's Shape the Future Together! 🚀</b>
+<b>🤝 Let's connect and build something awesome together!</b>
 
 <!---
 RakhaGalih/RakhaGalih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
