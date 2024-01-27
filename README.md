@@ -21,7 +21,7 @@ Explore a variety of projects showcasing my skills and creativity:
 
 - <b>Wheather App</b> : Stay informed with up-to-the-minute weather forecasts delivered straight to your device. [See the project 👀](https://github.com/RakhaGalih/weather-app)
 - <b>Kuas</b> : Kuas is a user-friendly app that offers both drawing and note-taking capabilities. [See the project 👀](https://github.com/RakhaGalih/kuas)
-- <b>Xylophone APP</b> : Brief description of the project. [See the project 👀](https://github.com/RakhaGalih/xylophone-me/)
+- <b>Xylophone App</b> : Virtual Xylophone designed with simplicity in mind. [See the project 👀](https://github.com/RakhaGalih/xylophone-me/)
 
 Feel free to dive into the code, provide feedback, or collaborate on exciting ventures!
 
