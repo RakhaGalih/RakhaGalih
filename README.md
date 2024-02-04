@@ -39,6 +39,16 @@ Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest i
 
 Explore a variety of projects showcasing my skills and creativity:
 
+<a href="https://github.com/RakhaGalih/weather-app">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=weather-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
+<a href="https://github.com/RakhaGalih/kuas">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=kuas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
+<a href="https://github.com/RakhaGalih/xylophone-me">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=xylophone-me&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
+
 - <b>Wheather App</b> : Stay informed with up-to-the-minute weather forecasts delivered straight to your device. [See the project 👀](https://github.com/RakhaGalih/weather-app)
 - <b>Kuas</b> : Kuas is a user-friendly app that offers both drawing and note-taking capabilities. [See the project 👀](https://github.com/RakhaGalih/kuas)
 - <b>Xylophone App</b> : Virtual Xylophone designed with simplicity in mind. [See the project 👀](https://github.com/RakhaGalih/xylophone-me/)
