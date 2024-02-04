@@ -5,10 +5,10 @@
 
 Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
 
-![profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
-[![GitHub Rakha Galih](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
+![Rakha's profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
+[![Rakha's GitHub Followers](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <hr>
 
