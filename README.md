@@ -55,7 +55,7 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 <a href="https://www.dribbble.com/rakhagalih/">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
 </a>
-<a href="rakhagalih19@gmail.com">
+<a href="mailto:rakhagalih19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Dribbble Badge"/>
 </a>
 
