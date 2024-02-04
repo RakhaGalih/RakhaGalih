@@ -20,7 +20,7 @@ Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest i
 
 <b>Problem Solving :</b> Enjoy tackling complex challenges and finding elegant solutions.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools and Languages :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
