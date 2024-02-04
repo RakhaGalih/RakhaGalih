@@ -5,6 +5,11 @@
 
 Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
 
+![profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
+[![GitHub Rakha Galih](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <hr>
 
 ### 🎨 What I Do :
@@ -14,6 +19,19 @@ Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest i
 <b>UI/UX Design :</b> Ensuring sleek interfaces and seamless user experiences.
 
 <b>Problem Solving :</b> Enjoy tackling complex challenges and finding elegant solutions.
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
 
 <hr>
 
