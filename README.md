@@ -79,7 +79,7 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 
 <hr>
 
-<b>🤝 Let's connect and build something awesome together!</b>
+<h3>🤝 Let's connect and build something awesome together! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R0eXljemk5dTVoNmR1dWFkZGgwYTZnMzdneWxrNjhzcTYyODFidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bkcz4RfEBNc5fvFOVf/giphy.gif" width="25px"/></h3>
 
 <!---
 RakhaGalih/RakhaGalih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
