@@ -55,8 +55,14 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 <a href="https://www.dribbble.com/rakhagalih/">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
 </a>
+<a href="wa.me/6281336340166/">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+<a href="https://www.instagram.com/rakha.css">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 <a href="mailto:rakhagalih19@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Dribbble Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
 <hr>
