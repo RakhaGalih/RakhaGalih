@@ -40,7 +40,7 @@ Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest i
 Explore a variety of projects showcasing my skills and creativity:
 
 <a href="https://github.com/RakhaGalih/weather-app">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=weather-app&theme=react&bg_color=1F222E&title_color=C6CAED&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=weather-app&theme=react&bg_color=1F222E&title_color=B8CDE6&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
 <a href="https://github.com/RakhaGalih/kuas">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=kuas&theme=react&bg_color=1F222E&title_color=D6AEC8&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
