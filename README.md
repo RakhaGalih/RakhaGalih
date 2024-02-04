@@ -1,4 +1,6 @@
-# Welcome to Rakha's GitHub Profile! 👋
+<h1>Welcome to Rakha's GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+
 ### 💁🏻‍♂️ About Me :
 
 Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
