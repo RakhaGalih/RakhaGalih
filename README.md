@@ -52,7 +52,7 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 <a href="https://www.linkedin.com/in/rakha-galih-660743215/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://dribbble.com/rakhagalih/">
+<a href="https://www.dribbble.com/rakhagalih/">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
 </a>
 <a href="rakhagalih19@gmail.com">
