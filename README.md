@@ -29,11 +29,15 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 
 ### 🌐 Get in Touch :
 
-<b>LinkedIn :</b> [My LinkedIn](https://www.linkedin.com/in/rakha-galih-660743215)
-
-<b>Dribbble :<b> [My Dribbble](https://dribbble.com/rakhagalih)
-
-<b>Email : <b> rakhagalih19@gmail.com
+<a href="https://www.linkedin.com/in/rakha-galih-660743215/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://dribbble.com/rakhagalih">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+</a>
+<a href="rakhagalih19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Dribbble Badge"/>
+</a>
 
 <hr>
 
