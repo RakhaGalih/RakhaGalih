@@ -8,7 +8,7 @@ Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest i
 ![Rakha's profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
 [![Rakha's GitHub Followers](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
 
-[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=1F222e&hide_border=true)](https://git.io/streak-stats)
+[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=1F222E&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
 
