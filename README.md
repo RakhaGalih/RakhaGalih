@@ -3,7 +3,7 @@
 
 ### 💁🏻‍♂️ About Me :
 
-Hey there! I'm Rakha Galih, a passionate mobile developer with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
+Hey there! I'm Rakha Galih, a passionate mobile programming enthusiast with a keen interest in crafting delightful experiences for users. With a solid background in Flutter Development, I thrive on turning ideas into innovative mobile solutions.
 
 ![Rakha's profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
 [![Rakha's GitHub Followers](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
