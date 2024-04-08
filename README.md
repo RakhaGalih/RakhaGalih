@@ -8,7 +8,7 @@ Hey there! I'm Rakha Galih, a passionate mobile programming enthusiast with a ke
 ![Rakha's profile count](https://komarev.com/ghpvc/?username=RakhaGalih&color=blue) &nbsp;
 [![Rakha's GitHub Followers](https://img.shields.io/github/followers/RakhaGalih?label=follow&style=social)](https://github.com/RakhaGalih) &nbsp;
 
-[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=1F222E&hide&mode=weekly_border=true)](https://git.io/streak-stats)
+[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakhaGalih&theme=dark&background=1F222E&hideborder=true)](https://git.io/streak-stats)
 
 <hr>
 
@@ -36,7 +36,7 @@ Hey there! I'm Rakha Galih, a passionate mobile programming enthusiast with a ke
 <br> 
 
 <a href="https://github.com/RakhaGalih/github-readme-stats">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaGalih&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaGali&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
 </a>
 
 <hr>
