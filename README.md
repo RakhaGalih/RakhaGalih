@@ -33,7 +33,9 @@ Hey there! I'm Rakha Galih, a passionate mobile programming enthusiast with a ke
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"  alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
-<br> 
+<br>
+
+[![Rakha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RakhaGalih&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true)](https://github.com/RakhaGalih)
 
 <a href="https://github.com/RakhaGalih/github-readme-stats">
   <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaGalih&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
