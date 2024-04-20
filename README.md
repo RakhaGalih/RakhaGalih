@@ -56,6 +56,9 @@ Explore a variety of projects showcasing my skills and creativity:
 <a href="https://github.com/RakhaGalih/xylophone-me">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=xylophone-me&theme=react&bg_color=1F222e&title_color=C7C0DF&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
+<a href="https://github.com/RakhaGalih/si_kipas">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=si_kipas&theme=react&bg_color=1F222e&title_color=C7C0DF&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
 
 Feel free to dive into the code, provide feedback, or collaborate on exciting ventures!
 
