@@ -47,6 +47,9 @@ Hey there! I'm Rakha Galih, a passionate mobile programming enthusiast with a ke
 
 Explore a variety of projects showcasing my skills and creativity:
 
+<a href="https://github.com/RakhaGalih/evolphy">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=evolphy&theme=react&bg_color=1F222e&title_color=C7C0DF&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
 <a href="https://github.com/RakhaGalih/weather-app">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=weather-app&theme=react&bg_color=1F222e&title_color=B8CDE6&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
