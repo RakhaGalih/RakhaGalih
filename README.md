@@ -85,7 +85,7 @@ Feel free to dive into the code, provide feedback, or collaborate on exciting ve
 <a href="https://www.instagram.com/rakha.css">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-<a href="mailto:rakhagalih19@gmail.com">
+<a href="mailto:rakhagalih22@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
