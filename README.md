@@ -56,8 +56,8 @@ Explore a variety of projects showcasing my skills and creativity:
 <a href="https://github.com/RakhaGalih/weather-app">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=weather-app&theme=react&bg_color=1F222e&title_color=B8CDE6&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
-<a href="https://github.com/RakhaGalih/dictii2">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=dictii2&theme=react&bg_color=1F222e&title_color=E9CA99&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<a href="https://github.com/RakhaGalih/dictii">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=dictii&theme=react&bg_color=1F222e&title_color=E9CA99&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
 <a href="https://github.com/RakhaGalih/kuas">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RakhaGalih&repo=kuas&theme=react&bg_color=1F222e&title_color=D6AEC8&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
